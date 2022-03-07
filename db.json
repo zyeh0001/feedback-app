@@ -9,16 +9,6 @@
       "id": 2,
       "rating": 9,
       "text": "This is feedback item 2 comeing from backend"
-    },
-    {
-      "id": 3,
-      "rating": 8,
-      "text": "This is feedback item 3 comeing from backend"
-    },
-    {
-      "rating": 8,
-      "text": "this is a text update",
-      "id": 4
     }
   ]
 }
